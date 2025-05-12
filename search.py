@@ -14,7 +14,7 @@ from semantic_kernel.contents.chat_history import ChatHistory
 from semantic_kernel.connectors.ai.open_ai import OpenAIChatPromptExecutionSettings
 
 
-dotenv_path = Path(r'C:/Users/EL0021/Desktop/imagesearch/.env')
+dotenv_path = Path(r'your_env_file_path')
 
 # 환경 변수 로드
 load_dotenv(dotenv_path=dotenv_path, override=True)
