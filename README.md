@@ -1,7 +1,9 @@
+
+# .env 파일
+
+```
 # image_search
 image search - mulit modal chat complition (sementic kernal) and Custom vision
-
-
 
 # Azure Storage
 AZURE_STORAGE_CONNECTION_STRING=
@@ -15,3 +17,4 @@ VISION_PREDICTION_URL=
 AZURE_OPENAI_API_KEY=
 AZURE_OPENAI_ENDPOINT=
 AZURE_OPENAI_DEPLOYMENT=
+```
